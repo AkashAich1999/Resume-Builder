@@ -1,60 +1,7 @@
 # Resume Builder
 
-```javascript
+This project is done for the successful completion of On-Campus Summer Internship 2023 (PC 649) of DA-IICT.
 
- sections = {
-    basicInfo: "Basic Info",
-    workExp: "Work Experience",
-    project: "Projects",
-    education: "Education",
-    achievement: "Achievements",
-    summary: "Summary",
-    other: "Other",
-  };
+React has been used to build this project. A little bit of CSS is also used. Moreover, VSCode is used as the IDE.
 
-  information = {
-    [sections.basicInfo]: {
-      id: sections.basicInfo,
-      sectionTitle: sections.basicInfo,
-      detail: {},
-    },
-    [sections.workExp]: {
-      id: sections.workExp,
-      sectionTitle: sections.workExp,
-      details: [
-        {
-          title:""
-        }
-        ,
-        {
-          title:""
-        }
-      ],
-    },
-    [sections.project]: {
-      id: sections.project,
-      sectionTitle: sections.project,
-      details: [],
-    },
-    [sections.education]: {
-      id: sections.education,
-      sectionTitle: sections.education,
-      details: [],
-    },
-    [sections.achievement]: {
-      id: sections.achievement,
-      sectionTitle: sections.achievement,
-      points: [],
-    },
-    [sections.summary]: {
-      id: sections.summary,
-      sectionTitle: sections.summary,
-      detail: "",
-    },
-    [sections.other]: {
-      id: sections.other,
-      sectionTitle: sections.other,
-      detail: "",
-    },
-
-```
+Submitted By: Akash Aich (202212057)
