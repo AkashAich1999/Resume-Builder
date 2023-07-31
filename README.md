@@ -9,6 +9,7 @@ LIVE : https://akashaich-resume-builder.netlify.app/
 The project is done under faculty : Dr. Gopinath Panda.
 
 Submitted By: 
+
  Name : Akash Aich,  
  ID : 202212057,  
  Course : MSc(IT),  
