@@ -6,4 +6,11 @@ REACT has been used to build this project. A little bit of CSS is also used. Mor
 
 LIVE : https://akashaich-resume-builder.netlify.app/ 
 
-Submitted By: Akash Aich (202212057)
+The project is done under faculty : Dr. Gopinath Panda.
+
+Submitted By: 
+ Name : Akash Aich
+ ID : 202212057
+ Course : MSc(IT)
+ Batch : 2022-24
+ Institute : DA-IICT
