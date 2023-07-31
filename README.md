@@ -4,4 +4,6 @@ This project is done for the successful completion of On-Campus Summer Internshi
 
 REACT has been used to build this project. A little bit of CSS is also used. Moreover, VSCode is used as the IDE.
 
+LIVE : https://akashaich-resume-builder.netlify.app/ 
+
 Submitted By: Akash Aich (202212057)
